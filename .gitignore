@@ -38,19 +38,7 @@ Output/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-AppData/
-Local/
-$RECYCLE.BIN/
-System Volume Information/
 
 # Project specific
 *.spec
 *.isl
-
-# Temp and Cache
-*.tmp
-*.temp
-*.cache
-Cache/
-Temp/
-Temporary/
